@@ -1,1 +1,1 @@
-mongodb+srv://Jsmith:Pencils1@cluster0.gil7t.mongodb.net/local_library?retryWrites=true&w=majority
+mongodb+srv://user:pass@cluster0.gil7t.mongodb.net/local_library?retryWrites=true&w=majority
